@@ -1,2 +1,3 @@
 # study
-개인 공부 정리
+개인 공부 정리  
+Hello Study

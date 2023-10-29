@@ -1,0 +1,20 @@
+CloudFormation으로 기본 세팅(VPC, Security Group 등)
+
+DB Subnet 그룹 설정(다른 Subnet 그룹화)
+DB 생성
+DB metadata
+DB name, Writer Endpoint, Master username, Master password
+
+캐시 필요시 ElastiCache (서브넷 그룹 설정)
+
+EFS 사용 시 VPC 및 Subnet 연결
+EFS metadata
+File system ID
+
+Target Group으로 로드 밸런싱할 VPC 선택
+ELB 생성 시 VPC 선택 및 서브넷 매핑
+ELB metadata
+DNS name
+
+Auto scaling 생성 시 VPC 및 해당 서브넷 설정
+로드 밸런서에 연결 및 생성 후 Target Group 확인
